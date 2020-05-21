@@ -2444,13 +2444,13 @@ input[type="submit"] {
 }
 .details-holder {
   background: #fff;
-  width: 100%;
-  border-radius: 50%;
+  width: 120%;
+  /* border-radius: 50%; */
 }
 .details-holder img {
   max-width: 145px;
   display: inline-block;
-  margin-bottom: 16px;
+  /* margin-bottom: 16px; */
 }
 .fade-overlay:before {
   opacity: 0;
